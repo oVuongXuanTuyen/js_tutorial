@@ -1,0 +1,11 @@
+#! /usr/local/bin/node
+
+// let testString = ["ant", "bat", "cat", 42];
+// let result = testString.join(" ");
+// console.log(result);
+// console.log(result.split(" "));
+// console.log(testString);
+
+let a = Math.sqrt(-1);
+
+console.isNaN(!!a);
