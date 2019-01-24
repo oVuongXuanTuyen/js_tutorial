@@ -8,4 +8,4 @@
 
 let a = Math.sqrt(-1);
 
-console.isNaN(!!a);
+console.log(!!a);
